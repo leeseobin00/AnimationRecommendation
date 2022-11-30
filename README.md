@@ -13,24 +13,24 @@ https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset
 
 # Modeling
-## Collaborative Recommender
-### Using Apriori
+### Collaborative Recommender
+#### Using Apriori
 
 - Use rating to find clusters of similar users and predict using K average ratings.
 
 - When a user enters the title of a video he or she is watching, the cosine similarity is 
   calculated using a pivot table and the video with the highest similarity is recommended.
 
-## Collaborative Recommender - Item based
-### Using KNN(Cosine similarity)
+### Collaborative Recommender - Item based
+#### Using KNN(Cosine similarity)
 
 - Use rating to find clusters of similar users and predict using K average ratings.
 
 - When a user enters the title of a video he or she is watching, the cosine similarity is 
   calculated using a pivot table and the video with the highest similarity is recommended.
 
-## Content Based Recommender
-### Using TF-IDF weighting and Sigmoid_kernel
+### Content Based Recommender
+#### Using TF-IDF weighting and Sigmoid_kernel
 
 - TF-IDF, or term frequency-inverse document frequency, is a figure that expresses the 
   statistical importance of any given word to the document collection as a whole. TF-IDF is 
