@@ -6,11 +6,13 @@ Predicting animation revenue and/or animation success based on a certain metric.
 
 Recommending animation to users. 
 
+Apply to other Animation data to Evaluation.
+
 We use the dataset in Kaggle
 
 https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 
-https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset
+https://github.com/varian97/Anime-Recommender-System
 
 # Modeling
 ### Collaborative Recommender
